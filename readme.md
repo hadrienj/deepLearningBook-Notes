@@ -1,0 +1,1 @@
+Notes on the deep learning book : Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press.
