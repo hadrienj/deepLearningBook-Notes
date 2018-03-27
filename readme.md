@@ -1,16 +1,3 @@
----
-bg: "road.jpg"
-layout: post
-mathjax: true
-title: Deep Learning Book Series · Introduction
-crawlertitle: "Deep Learning Book Series · Introduction"
-categories: posts
-tags: ['linear-algebra', 'deep-learning', 'machine-learning']
-author: hadrienj
-skip_span: true
-comments: true
-date: 2018-03-26 09:00:00
----
 
 <img src="dpl_cover.jpg" width="400">
 
@@ -52,7 +39,7 @@ The syllabus follow exactly the [Deep Learning Book](http://www.deeplearningbook
 
 1. [Scalars, Vectors, Matrices and Tensors](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.1-Scalars-Vectors-Matrices-and-Tensors/)
 
-    <img src="2.1/images/scalar-tensor.png" width="400" alt="scalar-tensor">
+    <img src="2.1 Scalars, Vectors, Matrices and Tensors/images/scalar-tensor.png" width="400" alt="scalar-tensor">
 
     Light introduction to vectors, matrices, transpose and basic operations (addition of vectors of matrices). Introduces also Numpy functions and finally a word on broadcasting.
 
