@@ -13,15 +13,14 @@ I'd like to introduce a series of blog posts and their corresponding Python Note
 
 These notes cover the chapter 2 on Linear Algebra. I liked this chapter because it gives a sense of what is most used in the domain of machine learning and deep learning. It is thus a great syllabus for anyone who want to dive in deep learning and acquire the concepts of linear algebra useful to better understand deep learning algorithms.
 
-You can find all the notebooks on [Github](https://github.com/hadrienj/deepLearningBook-Notes).
+You can find a version of this post along [here](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/).
 
 # Getting started with linear algebra
 
 The goal of this series is to provide content for beginners who wants to understand enough linear algebra to be confortable with machine learning and deep learning. However, I think that the chapter on linear algebra from the [Deep Learning book](http://www.deeplearningbook.org/) is a bit tough for beginners. So I decided to produce code, examples and drawings on each part of this chapter in order to add steps that may not be obvious for beginners. I also think that you can convey as much information and knowledge through examples than through general definitions. The illustrations are a way to see the big picture of an idea. Finally, I think that coding is a great tool to experiment concretely these abstract mathematical notions. Along with pen and paper, it adds a layer of what you can try to push your understanding through new horizons.
 
-<span class='pquote'>
-    Coding is a great tool to concretely experiment abstract mathematical notions
-</span>
+
+>Coding is a great tool to concretely experiment abstract mathematical notions
 
 Graphical representation is also very helpful to understand linear algebra. I tried to bind the concepts with plots (and code to produce it). The type of representation I liked most by doing this series is the fact that you can see any matrix as linear transformation of the space. In several chapters we will extend this idea and see how it can be useful to understand eigendecomposition, Singular Value Decomposition (SVD) or the Principal Components Analysis (PCA).
 
