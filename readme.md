@@ -13,7 +13,7 @@ I'd like to introduce a series of blog posts and their corresponding Python Note
 
 These notes cover the chapter 2 on Linear Algebra. I liked this chapter because it gives a sense of what is most used in the domain of machine learning and deep learning. It is thus a great syllabus for anyone who want to dive in deep learning and acquire the concepts of linear algebra useful to better understand deep learning algorithms.
 
-You can find a version of this post along [here](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/).
+You can find a version of this post and of all chapters [here](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/).
 
 # Getting started with linear algebra
 
