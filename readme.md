@@ -101,7 +101,7 @@ The syllabus follow exactly the [Deep Learning Book](http://www.deeplearningbook
 
 10. [The Trace Operator](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.10-The-Trace-Operator/)
 
-    <img src="../../assets/images/2.10/trace-matrix.png" width="200" alt="Calculating the trace of a matrix" title="Calculating the trace of a matrix">
+    <img src="2.10/images/trace-matrix.png" width="200" alt="Calculating the trace of a matrix" title="Calculating the trace of a matrix">
     <em>The trace of matrix</em>
 
     We will see what is the Trace of a matrix. It will be needed for the last chapter on the Principal Component Analysis (PCA).
