@@ -59,7 +59,7 @@ The syllabus follow exactly the [Deep Learning Book](http://www.deeplearningbook
 
     We will see two important matrices: the identity matrix and the inverse matrix. We will see why they are important in linear algebra and how to use it with Numpy. Finally, we will see an example on how to solve a system of linear equations with the inverse matrix.
 
-4. [Linear Dependence and Span](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.4-Dependence-and-Span/)
+4. [Linear Dependence and Span](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.4-Linear-Dependence-and-Span/)
 
     <img src="2.4 Linear Dependence and Span/images/number-solutions-system-equations.png" width="700" alt="Examples of systems of equations with 0, 1 and an infinite number of solutions" title="System of equations with 0, 1 and an infinite number of solutions">
 
