@@ -97,7 +97,7 @@ The syllabus follow exactly the [Deep Learning Book](http://www.deeplearningbook
 
 9. [The Moore-Penrose Pseudoinverse](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.9-The-Moore-Penrose-Pseudoinverse/)
 
-    <img src="2.9 The Moore-Penrose Pseudoinverse/images/output_44_0.png" width="300" alt="output_44_0">
+    <img src="2.9 The Moore-Penrose Pseudoinverse/images/overdetermined-system-equations-python.png" width="300" alt="output_44_0">
 
     We saw that not all matrices have an inverse. It is unfortunate because the inverse is used to solve system of equations. In some cases, a system of equation has no solution, and thus the inverse doesn’t exist. However it can be useful to find a value that is almost a solution (in term of minimizing the error). This can be done with the pseudoinverse! We will see for instance how we can find the best-fit line of a set of data points with the pseudoinverse.
 
